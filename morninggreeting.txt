@@ -1,5 +1,6 @@
-Pointer to the tip of the current branch in repo.
+Pointer to the tip of the currently checked out branch in repo.
 Last state of the repo
 What was last checked out.
 Points to parent of next commit
 - Where writing next commit will take place
+asdf
